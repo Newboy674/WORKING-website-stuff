@@ -4,27 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3af3b255-cfd4-4c97-b7d1-409bb974eacd" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Final Web Environment.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Final Web Environment.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="3af3b255-cfd4-4c97-b7d1-409bb974eacd" name="Changes" comment="Activated the virtual environment, onto website stuff!">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ooga/Me stuff" beforeDir="false" afterPath="$PROJECT_DIR$/Website Stuff/Ooga/Me stuff" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ooga/Test nymber 2" beforeDir="false" afterPath="$PROJECT_DIR$/Website Stuff/Ooga/Test nymber 2" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ooga/wtragdffv" beforeDir="false" afterPath="$PROJECT_DIR$/Website Stuff/Ooga/wtragdffv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Web Things/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/Website Stuff/Epicwebsite/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Web Things/ooga.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Web Things/website-env/Scripts/Activate.ps1" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Web Things/website-env/Scripts/activate" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Web Things/website-env/Scripts/activate.bat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Web Things/website-env/Scripts/deactivate.bat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Web Things/website-env/Scripts/pip.exe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Web Things/website-env/Scripts/pip3.8.exe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Web Things/website-env/Scripts/pip3.exe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Web Things/website-env/Scripts/python.exe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Web Things/website-env/Scripts/pythonw.exe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Web Things/website-env/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/Website Stuff/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Web Things/website-env/pyvenv.cfg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Website Stuff/Ooga/Me stuff" beforeDir="false" afterPath="$PROJECT_DIR$/Website Stuff/Ooga/Me stuff" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -96,6 +78,7 @@
 }</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Weird\PycharmProjects\Final Web Environment\Website Stuff\Epicwebsite" />
       <recent name="C:\Users\Weird\PycharmProjects\Final Web Environment\Website Stuff" />
       <recent name="C:\Users\Weird\PycharmProjects\Final Web Environment\Env Things" />
       <recent name="C:\Users\Weird\PycharmProjects\Final Web Environment\Ooga" />
@@ -197,7 +180,14 @@
       <option name="project" value="LOCAL" />
       <updated>1658283820723</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Activated the virtual environment, onto website stuff!">
+      <created>1658287324963</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1658287324963</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

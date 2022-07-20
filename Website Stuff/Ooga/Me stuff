@@ -1,6 +1,6 @@
 
-
-Activat Site:
+py manage.py startapp hello
+Activate Site:
 
 1.  cd 'C:\Users\Weird\PycharmProjects\Final Web Environment\Website Stuff\Epicwebsite'
 
