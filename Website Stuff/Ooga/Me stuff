@@ -1,0 +1,25 @@
+
+
+Activat Site:
+
+1.  cd 'C:\Users\Weird\PycharmProjects\Final Web Environment\Website Stuff\Epicwebsite'
+
+2. py manage.py runserver
+
+
+Activate the virutal thing?:
+
+1. Change directory first:   cd 'C:\Users\Weird\PycharmProjects\Final Web Environment\venv\Scripts'
+
+2..  Set-ExecutionPolicy -Scope CurrentUser -ExecutionPolicy Unrestricted
+
+3. activate.bat
+
+
+
+
+
+OTHER THINGS:
+Check Django Version:
+py -m django --version
+

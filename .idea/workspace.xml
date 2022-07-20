@@ -5,8 +5,26 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3af3b255-cfd4-4c97-b7d1-409bb974eacd" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Final Web Environment.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Final Web Environment.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ooga/Me stuff" beforeDir="false" afterPath="$PROJECT_DIR$/Ooga/Me stuff" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ooga/Me stuff" beforeDir="false" afterPath="$PROJECT_DIR$/Website Stuff/Ooga/Me stuff" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ooga/Test nymber 2" beforeDir="false" afterPath="$PROJECT_DIR$/Website Stuff/Ooga/Test nymber 2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ooga/wtragdffv" beforeDir="false" afterPath="$PROJECT_DIR$/Website Stuff/Ooga/wtragdffv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Web Things/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/Website Stuff/Epicwebsite/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Web Things/ooga.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Web Things/website-env/Scripts/Activate.ps1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Web Things/website-env/Scripts/activate" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Web Things/website-env/Scripts/activate.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Web Things/website-env/Scripts/deactivate.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Web Things/website-env/Scripts/pip.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Web Things/website-env/Scripts/pip3.8.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Web Things/website-env/Scripts/pip3.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Web Things/website-env/Scripts/python.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Web Things/website-env/Scripts/pythonw.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Web Things/website-env/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/Website Stuff/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Web Things/website-env/pyvenv.cfg" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,9 +74,8 @@
     <option name="ROOT_SYNC" value="DONT_SYNC" />
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/Ooga/Test nymber 2" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Ooga/wtragdffv" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Web Things/ooga.py" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Website Stuff/Ooga/Test nymber 2" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Website Stuff/Ooga/wtragdffv" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -73,12 +90,14 @@
   &quot;keyToString&quot;: {
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/Weird/PycharmProjects/Final Web Environment&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Weird/PycharmProjects/Final Web Environment/Env Things/website-env&quot;,
     &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;
   }
 }</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Weird\PycharmProjects\Final Web Environment\Website Stuff" />
+      <recent name="C:\Users\Weird\PycharmProjects\Final Web Environment\Env Things" />
       <recent name="C:\Users\Weird\PycharmProjects\Final Web Environment\Ooga" />
       <recent name="C:\Users\Weird\PycharmProjects\Final Web Environment\Web Things" />
     </key>
@@ -171,7 +190,14 @@
       <option name="project" value="LOCAL" />
       <updated>1658218245205</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Activated the virtual environment, onto website stuff!">
+      <created>1658283820723</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1658283820723</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -214,6 +240,7 @@
     <MESSAGE value="hbiukjm" />
     <MESSAGE value="The beginning?" />
     <MESSAGE value="The beginning pt 2?" />
-    <option name="LAST_COMMIT_MESSAGE" value="The beginning pt 2?" />
+    <MESSAGE value="Activated the virtual environment, onto website stuff!" />
+    <option name="LAST_COMMIT_MESSAGE" value="Activated the virtual environment, onto website stuff!" />
   </component>
 </project>
