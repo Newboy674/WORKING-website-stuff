@@ -1,13 +1,10 @@
 
 
-Change directory first:   cd 'C:\Users\Weird\PycharmProjects\Final Web Environment\Web Things'
-
-
 
 Activate the virutal thing?:
 
-1. Set-ExecutionPolicy -Scope Process -ExecutionPolicy Bypass
+1. Change directory first:   cd 'C:\Users\Weird\PycharmProjects\Final Web Environment\Web Things'
 
-2..
+2..  Set-ExecutionPolicy -Scope CurrentUser -ExecutionPolicy Unrestricted
 
 3...  website-env\Scripts\activate.bat
