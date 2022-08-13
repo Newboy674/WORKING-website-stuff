@@ -11,15 +11,23 @@ Activate the virutal thing?:
 
 1. Change directory first:   cd 'C:\Users\Weird\PycharmProjects\Final Web Environment\venv\Scripts'
 
-2..  Set-ExecutionPolicy -Scope CurrentUser -ExecutionPolicy Unrestricted
+2. Set-ExecutionPolicy -Scope CurrentUser -ExecutionPolicy Unrestricted
 
 3. activate.bat
 
 
+Make new app ( new page )
 
+1. py manage.py startapp ~Name Here~
 
 
 OTHER THINGS:
 Check Django Version:
 py -m django --version
+
+
+TUTORIAL:
+https://docs.djangoproject.com/en/4.0/intro/tutorial02/
+
+CURRENT: Go into whatever_app/models.py and do some class stuff I think...
 
