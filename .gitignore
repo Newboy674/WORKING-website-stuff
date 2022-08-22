@@ -3,6 +3,10 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+#Key location?
+
+Website Stuff/Epicwebsite/Epicwebsite/
+
 # C extensions
 *.so
 
