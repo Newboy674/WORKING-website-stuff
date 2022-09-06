@@ -4,13 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3af3b255-cfd4-4c97-b7d1-409bb974eacd" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Website Stuff/Epicwebsite/Epicwebsite/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/Website Stuff/Epicwebsite/Epicwebsite/settings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Website Stuff/Epicwebsite/Epicwebsite/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/Website Stuff/Epicwebsite/Epicwebsite/urls.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Website Stuff/Epicwebsite/hello2/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/Website Stuff/Epicwebsite/hello2/urls.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Website Stuff/Epicwebsite/secret/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/Website Stuff/Epicwebsite/secret/urls.py" afterDir="false" />
-    </list>
+    <list default="true" id="3af3b255-cfd4-4c97-b7d1-409bb974eacd" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -281,7 +275,21 @@
       <option name="project" value="LOCAL" />
       <updated>1660380852425</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="working on making the polls app work">
+      <created>1662438858232</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1662438858232</updated>
+    </task>
+    <task id="LOCAL-00014" summary="working on making the polls app work">
+      <created>1662439061318</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1662439061318</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -326,6 +334,7 @@
     <MESSAGE value="The beginning pt 2?" />
     <MESSAGE value="Activated the virtual environment, onto website stuff!" />
     <MESSAGE value="we added an app" />
-    <option name="LAST_COMMIT_MESSAGE" value="we added an app" />
+    <MESSAGE value="working on making the polls app work" />
+    <option name="LAST_COMMIT_MESSAGE" value="working on making the polls app work" />
   </component>
 </project>
