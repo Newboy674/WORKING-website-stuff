@@ -4,7 +4,18 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3af3b255-cfd4-4c97-b7d1-409bb974eacd" name="Changes" comment="" />
+    <list default="true" id="3af3b255-cfd4-4c97-b7d1-409bb974eacd" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Website Stuff/Epicwebsite/tutorialstuff/How to add questions" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2022-08-26_8_27_p_m__[Changes]/shelved.patch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2022-08-26_8_27_p_m___Changes_.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Website Stuff/Epicwebsite/Epicwebsite/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/Website Stuff/Epicwebsite/Epicwebsite/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Website Stuff/Epicwebsite/Epicwebsite/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/Website Stuff/Epicwebsite/Epicwebsite/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Website Stuff/Epicwebsite/secret/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/Website Stuff/Epicwebsite/secret/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Website Stuff/Epicwebsite/tutorialstuff/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/Website Stuff/Epicwebsite/tutorialstuff/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Website Stuff/Ooga/How 2 activate" beforeDir="false" afterPath="$PROJECT_DIR$/Website Stuff/Ooga/How 2 activate" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -289,7 +300,28 @@
       <option name="project" value="LOCAL" />
       <updated>1662439061318</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="working on making the polls app work">
+      <created>1662439177272</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1662439177272</updated>
+    </task>
+    <task id="LOCAL-00016" summary="working on making the polls app work">
+      <created>1662439186876</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1662439186876</updated>
+    </task>
+    <task id="LOCAL-00017" summary="working on making the polls app work">
+      <created>1662439296078</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1662439296078</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

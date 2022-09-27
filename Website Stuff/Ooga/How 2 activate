@@ -16,9 +16,21 @@ Activate the virutal thing?:
 3. activate.bat
 
 
-Make new app ( new page )
+Make new app {Tutorial page 2?}
 
 1. py manage.py startapp ~Name Here~
+
+
+
+Make Models {Tutorial page 2}:
+
+1. Change models in models.py (Use format similar to tutorial stuff)
+
+2. Run "python manage.py makemigrations" to make migrations for the changes
+
+3. Run "python manage.py migrate" to apply the changes
+
+
 
 
 OTHER THINGS:

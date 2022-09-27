@@ -21,6 +21,5 @@ urlpatterns = [
     path('hello2/', include('hello2.urls')),
     path('secret/', include('secret.urls')),   ##FILE in the brackets matters, the XXXX/ is the name u type in 4 site
     path('hello/', include('hello.urls')),
-    path('hello/', include('tutorialstuff.urls')),
     path('admin/',admin.site.urls),
 ]

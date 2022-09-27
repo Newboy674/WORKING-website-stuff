@@ -34,7 +34,7 @@ ALLOWED_HOSTS = []
 
 INSTALLED_APPS = [
     'tutorialstuff.apps.TutorialstuffConfig',  ## the path here is tutorialstuff/apps/Tutorialstuffconfig.  The third one copies the name of the class in the path
-                                               ## This installed with polls label because I used the command [py manage.py makemigrations polls]. the polls at the end is the label
+                                               ## The label name needs to be the app name. I used the command [py manage.py makemigrations tutorialstuff]. for this
 
     'django.contrib.admin',
     'django.contrib.auth',
