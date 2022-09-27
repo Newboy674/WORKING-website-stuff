@@ -5,16 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3af3b255-cfd4-4c97-b7d1-409bb974eacd" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Website Stuff/Epicwebsite/tutorialstuff/How to add questions" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2022-08-26_8_27_p_m__[Changes]/shelved.patch" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2022-08-26_8_27_p_m___Changes_.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Website Stuff/Epicwebsite/Epicwebsite/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/Website Stuff/Epicwebsite/Epicwebsite/settings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Website Stuff/Epicwebsite/Epicwebsite/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/Website Stuff/Epicwebsite/Epicwebsite/urls.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Website Stuff/Epicwebsite/secret/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/Website Stuff/Epicwebsite/secret/urls.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Website Stuff/Epicwebsite/tutorialstuff/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/Website Stuff/Epicwebsite/tutorialstuff/models.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Website Stuff/Ooga/How 2 activate" beforeDir="false" afterPath="$PROJECT_DIR$/Website Stuff/Ooga/How 2 activate" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/math.py" beforeDir="false" afterPath="$PROJECT_DIR$/math.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -100,7 +92,7 @@
       </set>
     </option>
   </component>
-  <component name="RunManager" selected="Python.Test">
+  <component name="RunManager" selected="Python.math">
     <configuration name="Dan_Bot2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Final Web Environment" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -187,8 +179,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.Test" />
         <item itemvalue="Python.math" />
+        <item itemvalue="Python.Test" />
         <item itemvalue="Python.Dan_Bot2" />
       </list>
     </recent_temporary>
@@ -321,7 +313,14 @@
       <option name="project" value="LOCAL" />
       <updated>1662439296078</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="git ignore test">
+      <created>1664315577301</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1664315577301</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -367,6 +366,7 @@
     <MESSAGE value="Activated the virtual environment, onto website stuff!" />
     <MESSAGE value="we added an app" />
     <MESSAGE value="working on making the polls app work" />
-    <option name="LAST_COMMIT_MESSAGE" value="working on making the polls app work" />
+    <MESSAGE value="git ignore test" />
+    <option name="LAST_COMMIT_MESSAGE" value="git ignore test" />
   </component>
 </project>
